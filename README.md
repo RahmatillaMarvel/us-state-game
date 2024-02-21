@@ -2,6 +2,8 @@
 
 Welcome to the US States Guessing Game! This Python-based game is designed to help you test and improve your knowledge of the United States geography in a fun and interactive way.
 
+![US States Map](./sources/blank_states_img.gif)
+
 ## How to Play
 
 1. **Clone the Repository**: 
